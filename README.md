@@ -22,10 +22,5 @@ There are **2** tests, make the first test pass.
 Once the first test passes, change the second test so that it's true,
   fill in the actual correct values in the assertions.
 
-(you'll need jasmine-node)
-
-    npm install jasmine-node -g
-
-run automated tests by running
-
-    jasmine-node --autotest .
+Running Tests:
+`npm test`

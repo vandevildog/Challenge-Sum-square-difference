@@ -1,0 +1,24 @@
+{
+  "name": "Challenge-Sum-square-difference",
+  "version": "1.0.0",
+  "description": "Challenge 6 ===========",
+  "main": "challenge_6.js",
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devleague/Challenge-Sum-square-difference.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devleague/Challenge-Sum-square-difference/issues"
+  },
+  "homepage": "https://github.com/devleague/Challenge-Sum-square-difference#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.3"
+  }
+}
