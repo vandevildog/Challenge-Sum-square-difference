@@ -18,9 +18,5 @@ Hence the difference between the sum of the squares of the first ten natural num
 
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 
-There are **2** tests, make the first test pass.
-Once the first test passes, change the second test so that it's true,
-  fill in the actual correct values in the assertions.
-
-Running Tests:
+Running Tests:  
 `npm test`

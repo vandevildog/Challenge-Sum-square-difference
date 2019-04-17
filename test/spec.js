@@ -11,7 +11,7 @@ describe("Difference between sum of squares and squares of sum", function () {
     expect( squareSummer.squareOfTheSums() - squareSummer.sumOfSquares() ).equal(2640);
   });
 
-  it("for the first 100 natural numbers is XXX", function () {
+  it("for the first 100 natural numbers is 25164150", function () {
     const squareSummer = new SumOfASquare(100);
     expect( squareSummer.sumOfSquares() ).equal(338350);
     expect( squareSummer.squareOfTheSums() ).equal(25502500);
